@@ -18,3 +18,6 @@ cara jalanin di lokal:
 2. bikin file `.env.local` terus isi 6 config Firebase you (`NEXT_PUBLIC_FIREBASE_API_KEY`, `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN`, `NEXT_PUBLIC_FIREBASE_PROJECT_ID`, `NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET`, `NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID`, `NEXT_PUBLIC_FIREBASE_APP_ID`)
 3. nyalain Firestore sama Google Sign-In di Firebase Console
 4. `npm run dev` terus buka `http://localhost:3000`
+
+# Kalo mau tes dari website
+https://to-do-list-kereta-pocin-8-bit.vercel.app/
